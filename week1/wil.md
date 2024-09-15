@@ -26,6 +26,7 @@
 - **인터넷이란?**
 
 	전 세계 컴퓨터를 유선으로 연결해놓은 네트워크
+
 	Inter network = network of network
 
 - **프로토콜이란?**
