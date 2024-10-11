@@ -8,12 +8,12 @@
 - 어플리케이션
     - 프로젝트 내에서 기능별로 쪼개놓은 단위
 - 프로젝트 구조
-![장고 프로젝트](../../%EC%9E%A5%EA%B3%A0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.png)
+![장고 프로젝트](../image/djangoproject.png)
 
 
 
 - DB와 Model
-![db](../../dbandmodel.png)
+![db](../image/dbandmodel.png)
 
 - Model의 역할
     - [Models.py](http://Models.py)에 클래스 생성시 장고가 클래스를 토대로 DB 테이블 생성
@@ -61,7 +61,7 @@ WHERE 주소 = 서울시 마포구
     ```
     
 - 웹 통신 흐름
-![web](../../web.png)
+![web](../image/web.png)
 
     
 - HTML
